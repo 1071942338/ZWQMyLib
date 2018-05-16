@@ -7,6 +7,7 @@
 //
 
 #import "ZWQViewController.h"
+#import <ZWQMyLib/MyViewController>
 
 @interface ZWQViewController ()
 
