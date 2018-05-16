@@ -1,0 +1,6 @@
+framework module ZWQMyLib {
+  umbrella header "ZWQMyLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

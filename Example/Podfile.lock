@@ -1,0 +1,16 @@
+PODS:
+  - ZWQMyLib (0.1.0)
+
+DEPENDENCIES:
+  - ZWQMyLib (from `../`)
+
+EXTERNAL SOURCES:
+  ZWQMyLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZWQMyLib: 225933a3afce42c514a40a60cfb3b59cec205c42
+
+PODFILE CHECKSUM: b22b554325e71167137bbbee2ebf5bb4c542cbbe
+
+COCOAPODS: 1.4.0
